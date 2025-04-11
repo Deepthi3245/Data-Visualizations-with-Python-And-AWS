@@ -5,7 +5,7 @@ import boto3
 from botocore.exceptions import NoCredentialsError
 
 # Define your FMP API Key
-FMP_API_KEY = 'vR2L2esGUfeqYJWFBxfXTaLJ9dfq7Q5C'
+FMP_API_KEY = ''
 
 # List of bank tickers
 tickers = ['JPM', 'BAC', 'C', 'WFC', 'GS']
